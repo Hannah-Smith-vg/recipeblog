@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where do I go for inspiration?
+title: Where do I go for Inspiration?
 date: 2021-02-01T20:43:23.484Z
 header_feature_image: ../uploads/dan-gold-5o1ddensm4g-unsplash.jpg
 title_color: "#ffffff"
