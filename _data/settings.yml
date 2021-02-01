@@ -1,12 +1,13 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
-header_text_color: "#ffffff"
-footer_text: Copyright 2020 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
-logo: /uploads/logo.jpg
+title: Beating the urge to cheat
+description: Recipes to combat weight loss craving. Delicious recipes and blog
+  post about food and recipe books
+footer_text: Copyright 2021 Hannah Smith
+header_feature_image: ../uploads/max-delsid-ioz4kesuy1e-unsplash.jpg
+header_text: Beating the Urge to Cheat
+header_text_color: "#121212"
+bannerheight: 20vmax
+logo: ../uploads/dan-gold-4_jhdo54byg-unsplash.jpg
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: false
 fixednavbar: false
+upzoom: true
