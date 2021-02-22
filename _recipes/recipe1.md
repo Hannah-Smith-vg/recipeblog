@@ -8,8 +8,6 @@ tags: null
 ---
 A twist on a noodle dish of the same name, Singapore Fried Rice is a fast food classic often featured on Chinese takeaway menus in Britain. Spicy and full of fresh ingredients, making tempting comfort food and one less reason to call the local Chinese takeaway
 
-
-
 ![A bowl with rice and prawns](../uploads/17110743402_323d767e3a_z.jpg)
 
 ## Ingredients
@@ -19,17 +17,16 @@ A twist on a noodle dish of the same name, Singapore Fried Rice is a fast food 
 * 2 spring onions, roughly chopped
 * 1 clove of garlic, sliced
 * 1 large red chilli, sliced
-
-  1 egg
-  200g leftover rice, long grain
-  a handful of garden peas
-  ¼ tsp chilli powder
-  ¼ tsp turmeric
-  ¼ tsp garam masala
-  1 clove, ground
-  ½ star anise, ground
-  1 tbsp soy sauce
-  1 tbsp sesame oil  
+* 1 egg
+* 200g leftover rice, long grain
+* a handful of garden peas
+* ¼ tsp chilli powder
+* ¼ tsp turmeric
+* ¼ tsp garam masala
+* 1 clove, ground
+* ½ star anise, ground
+* 1 tbsp soy sauce
+* 1 tbsp sesame oil  
 
 ## Method
 
