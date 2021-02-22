@@ -6,9 +6,7 @@ layout: recipe
 published: true
 tags: null
 ---
-A twist on a noodle dish of the same name, Singapore Fried Rice is a fast food classic often featured on Chinese takeaway menus in Britain. Spicy and full of fresh ingredients, it may have little to do with Singapore, but it makes tempting comfort food.
-
-Indeed, it would seem that Singapore fried rice is something of a misnomer; it has nothing to do with the city state. Still, things could be worse and far be it from me to go about changing the name of a delicious takeaway meal. It’ll sit beautifully beside [your chicken chow mein](http://frugalfeeding.com/2014/11/25/chicken-chow-mein/ "Chicken Chow Mein").
+A twist on a noodle dish of the same name, Singapore Fried Rice is a fast food classic often featured on Chinese takeaway menus in Britain. Spicy and full of fresh ingredients, making tempting comfort food and one less reason to call the local Chinese takeaway
 
 
 
@@ -21,6 +19,7 @@ Indeed, it would seem that Singapore fried rice is something of a misnomer; it h
 * 2 spring onions, roughly chopped
 * 1 clove of garlic, sliced
 * 1 large red chilli, sliced
+
   1 egg
   200g leftover rice, long grain
   a handful of garden peas
@@ -34,11 +33,15 @@ Indeed, it would seem that Singapore fried rice is something of a misnomer; it h
 
 ## Method
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Heat 1 tbsp of sunflower oil in a small frying pan. 
+2. Flash fry the prawns, spring onions, garlic and chilli. Set aside.
+3. Gently whisk the egg, fry in a little oil to make a simple omelette. 
+4. Roll and slice into 1cm strips.
+5. Heat the remaining sunflower oil in a wok until smoking. 
+6. Add the prawns, spring onions, garlic and chilli, followed immediately by the rice and peas.
+7. Grind your clove and star anise. 
+8. Add to the mix along with the chilli powder, turmeric and garam masala.
+9. Ensure everything is incorporated, including the omelette, before seasoning the rice with the soy sauce and sesame oil. Serve immediately.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-* Serves: 6
+* Serves: 4
 * Preparation time: 1 hour
