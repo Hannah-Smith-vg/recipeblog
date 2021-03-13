@@ -12,6 +12,10 @@ This low carb version stops the cravings and stills tastes as good as the origin
 
 
 
+![serving a portion of keto fish pie on a plate and a casserole of fish pie](https://sugarfreelondoner.com/wp-content/uploads/2017/10/Low-Carb-Fish-Pie-sugarfreelondoner-320x320.jpg)
+
+
+
 ## **Ingredients**
 
 * 1 onion chopped
@@ -29,8 +33,6 @@ This low carb version stops the cravings and stills tastes as good as the origin
 * 1 tbsp chopped chives
 * grated nutmeg
 * salt to taste
-
-
 
 ## Method
 
@@ -55,8 +57,6 @@ Spread the cauliflower mash on top and run a fork over the top to make lines.
 Bake for 40 minutes or until the top is browned
 
 Sprinkle with some fresh parsley and serve
-
-
 
 * Serves: 6
 * Cooking Time: 1 Hour
