@@ -8,6 +8,8 @@ tags: null
 ---
 On diets like these sometimes high carb meals like pasta bakes are a big no no. Well now you have a taste and healthy alternative
 
+![Low Carb Chicken Casserole](../uploads/unnamed.webp)
+
 ## Ingredients
 
 * 16 oz bag of cauliflower, thawed
