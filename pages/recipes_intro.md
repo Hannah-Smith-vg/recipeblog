@@ -5,12 +5,17 @@ date: 2020-11-19T18:50:31.663Z
 show: false
 layout: recipeshome
 ---
-This will be the home page for your recipes.
+Enjoy the recipes from the book: Beating the urge to cheat.
 
-Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+All of the recipes are designed with a workout and weight loss diet in mind, with special detail towards stopping you craving the things that always force you to give up your diets in the past.
 
-Add the cover image here.
+![Cover of beating the urge to cheat.](../uploads/digital-product-book-cover-jpg.jpg)
 
-[![Tomatoes](../uploads/tomatoes.jpg "Tomatoes")](/allrecipes)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+The pressure is on to lose weight yet all we seem to do is crave delicious food that is so bad for us. Just thinking about all the food we crave is nearly enough to make us give up and accept a fate of never slimming down. Yet now there is hope, this book contains 6 amazing recipes that help combat the cravings and are inspired by our favourite takeaways and comfort foods which are the biggest bane to our dieting goals.
+
+\
+Now you can discover the joy of weight loss with no expense and no cravings. Enjoy full bellies and leave those salads behind. Discover low fat fried rice's with half the oil of your take away, or moussakas with an Indian twist to stop you dialling the number to that curry house. All that and more lay waiting ahead of you in this diet saving book.
