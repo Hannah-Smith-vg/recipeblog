@@ -10,11 +10,7 @@ One of the best loved comfort foods in the UK, creamy and filling it is a stable
 
 This low carb version stops the cravings and stills tastes as good as the original, with a little bit of wine thrown in for all those missing a glass or two.
 
-
-
-![serving a portion of keto fish pie on a plate and a casserole of fish pie](https://sugarfreelondoner.com/wp-content/uploads/2017/10/Low-Carb-Fish-Pie-sugarfreelondoner-320x320.jpg)
-
-
+![serving a portion of fish pie on a plate and a casserole of fish pie](https://sugarfreelondoner.com/wp-content/uploads/2017/10/Low-Carb-Fish-Pie-sugarfreelondoner-320x320.jpg)
 
 ## **Ingredients**
 
