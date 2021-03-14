@@ -41,6 +41,5 @@ In a large bowl, add cauliflower, chicken, and cheese sauce. Then pour into a gr
 
 Sprinkle with remaining cheese. Bake at 350 degrees for 35 minutes.
 
-Servings: 6
-
-Cooking Time: 1 Hour
+* Servings: 6
+* Cooking Time: 1 Hour
