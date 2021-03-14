@@ -12,8 +12,6 @@ Enjoy one the ultimate British classics guilty free.
 
 ![cottage pie in a casserole dish](../uploads/low-carb-cottage-pie-10.jpg)
 
-
-
 ## Ingredients
 
 * Splash of olive oil
@@ -32,8 +30,6 @@ Enjoy one the ultimate British classics guilty free.
 * Knob of butter
 * Splash of double cream
 * Salt + pepper
-
-
 
 ## Method
 
@@ -65,8 +61,5 @@ Top with grated cheddar cheese, if you like.
 
 Either way, pop them under the grill on a high heat until bronzed.
 
-
-
-Serving: 4
-
-Cooking Time: 1 Hour
+* Serving: 4
+* Cooking Time: 1 Hour
