@@ -1,55 +1,67 @@
 ---
-layout: recipe #this will be a basic page with styles coming from content.css
-title: Recipe 6
-date: 2019-10-19
-published: true
+title: Low Fat Moussaka
 order: 1
+date: 2019-10-19
+layout: recipe
+published: true
 tags:
   - Greek
   - Meat
   - Hot
 ---
+A rich and comforting Greek classic without the calories and with a little extra kick.
 
-This is just some sample content to show you what _markdown_ looks like. There are variations on this basic recipe, sometimes with no sauce, sometimes with other vegetables. The most common variant in Greece may include zucchini (courgette), part-fried potatoes or sautéed mushrooms in addition to the eggplant.
 
-![Moussaka](../uploads/moussaka.jpg)
+
+![Moussaka](../uploads/recipe-image-legacy-id-812455_11-bd481c3.webp)
+
 
 
 ## Ingredients
 
-- 1 kg aubergines (large or/and elongated variety)
-- 160 ml vegetable oil (about 1 teacup)
-- 1 large onion, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
+* 200g frozen sliced peppers
+* 3 garlic cloves , crushed
+* 200g extra-lean minced beef
+* 100g red lentils
+* 2 tsp dried oregano , plus extra for sprinkling
+* 500ml carton passata
+* 1 aubergine , sliced into 1.5cm rounds
+* 4 tomatoes , sliced into 1cm rounds
+* 2 tsp olive oil
+* 25g parmesan , finely grated
+* 170g pot 0% fat Greek yogurt
+* freshly grated nutmeg
 
 
-## Method
 
-Moussaka should be baked in the oven. Use a roasting container, either square or oblong, approximately 25 x 25 cm or 39 x 28 cm. It is recommended that you spread the work involved over two days for your convenience; one can easily cook the meat the day before, without the Moussaka suffering at all. Do not do the same with the aubergines; they should be fried on the day.
+Method
 
-Top and tail the aubergines, without peeling them. Rinse them, cut them lengthways in 75-mm thick slices and immerse them in salted water, for 30 minutes. Take them out, squeeze gently, rinse, then squeeze them again. Drain them in a colander and pat dry. Fry them in hot vegetable oil until they become pale golden on both sides; you can either deep-fry them, which is easier but they absorb a lot of oil, or shallow-fry them. In either case, drain them on absorbent paper on a flat platter before serving, so that most of their oil will dribble away.
+Cook the peppers gently in a large non-stick pan for about 5 mins – the water from them should stop them sticking. 
 
-Sautee the sliced onion in 2 tablespoons vegetable oil, until it looks glistening. Add the meat and sauté together, stirring, until all the lumps are broken down and the meat starts to change colour. Pour in the wine, add tomatoes, sliced finely, the spices, salt and pepper and the oregano. Cover and cook for 20 minutes, stirring from time to time in case it sticks. Then mix in the grated cheese and parsley.
-Melt the butter and, away from the heat, gradually add the flour and stir to amalgamate. Return to the heat and gradually add the milk and seasoning, stirring continuously. Simmer for 9-10 minutes, stirring, until it has thickened considerably. Withdraw the pan from the heat, let it stand briefly, then add the cheese and the egg yolks. Stir to amalgamate them. Do not let the sauce boil after this.
+Add the garlic and cook for 1 min more, then add the beef, breaking up with a fork, and cook until brown. 
 
-It should by now be a thick béchamel, to enable it to sit on top of the meat mixture and form a kind of crust.
+Tip in the lentils, half the oregano, the passata and a splash of water. 
 
-To assemble, cover the base of the roasting dish with half of the fried aubergines, then spread half of the meat mixture evenly on top of them and cover neatly with the remaining aubergines. Spread the remaining meat and sauce evenly over the top and cover neatly with the béchamel sauce. Sprinkle the grated cheese all over the top, and the breadcrumbs. Moussaka from Macedonia may contain a layer of thinly sliced round potatoes which have been fried first. Bake in a pre-heated oven, gas no.4/ 350 grades F/ 180 grades C, for 1 hour, until a golden crust is formed all over the top. Let it stand for 5 minutes before serving, in order to be able to cut it more easily. To serve, cut into square or oblong-shaped pieces, about 8 cm thick. It should be quite dry by then and the pieces should ideally stay intact.
+Simmer for 15-20 mins until the lentils are tender, adding more water if you need to.
 
-- Serves: 6
-- Preparation time: 1 hour
+Meanwhile, heat the grill to Medium. 
+
+Arrange the aubergine and tomato slices on a non-stick baking tray and brush with the oil. 
+
+Sprinkle with the remaining oregano and some seasoning, then grill for 1-2 mins each side until lightly charred – you may need to do this in batches.
+
+Mix half the Parmesan with the yogurt and some seasoning. 
+
+Divide the beef mixture between 4 small ovenproof dishes and top with the sliced aubergine and tomato.
+
+ Spoon over the yogurt topping and sprinkle with the extra oregano, Parmesan and nutmeg. 
+
+Grill for 3-4 mins until bubbling. 
+
+Serve with a salad, if you like.
+
+
+
+Serving: 4
+
+Cooking Time: 55 Minutes
