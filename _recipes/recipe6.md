@@ -1,6 +1,6 @@
 ---
 title: Low Fat Moussaka
-order: 1
+order: 6
 date: 2019-10-19
 layout: recipe
 published: true
@@ -11,11 +11,7 @@ tags:
 ---
 A rich and comforting Greek classic without the calories and with a little extra kick.
 
-
-
 ![Moussaka](../uploads/recipe-image-legacy-id-812455_11-bd481c3.webp)
-
-
 
 ## Ingredients
 
@@ -31,8 +27,6 @@ A rich and comforting Greek classic without the calories and with a little extra
 * 25g parmesan , finely grated
 * 170g pot 0% fat Greek yogurt
 * freshly grated nutmeg
-
-
 
 Method
 
@@ -60,8 +54,5 @@ Grill for 3-4 mins until bubbling.
 
 Serve with a salad, if you like.
 
-
-
-Serving: 4
-
-Cooking Time: 55 Minutes
+* Serving: 4
+* Cooking Time: 55 Minutes
