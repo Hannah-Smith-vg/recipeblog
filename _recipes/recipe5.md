@@ -10,6 +10,8 @@ A mixed Vegetable Curry that packs a punch, loaded with veggies and made with c
 
 
 
+![Close up of Vegetable curry](../uploads/unnamed-1-.webp)
+
 ## Ingredients
 
 * 2 tbsp curry powder , mild or hot 
@@ -53,8 +55,6 @@ Simmer for 15 minutes or until potato is pretty soft, then remove lid and simmer
 Add peas, stir, cook for 2 minutes. Add coriander and spinach, stir until wilted.
 
 Season to taste until salt and pepper. Serve over basmati rice or plain white rice. Garnish with yoghurt and more coriander.
-
-
 
 Serving: 5
 
