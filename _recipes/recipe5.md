@@ -8,8 +8,6 @@ tags: null
 ---
 A mixed Vegetable Curry that packs a punch, loaded with veggies and made with common spices that you might even already have in your pantry! Perfect for curry night.
 
-
-
 ![Close up of Vegetable curry](../uploads/unnamed-1-.webp)
 
 ## Ingredients
@@ -38,8 +36,6 @@ A mixed Vegetable Curry that packs a punch, loaded with veggies and made with c
 * Salt and pepper
 * Yoghurt (plain or Greek)
 
-
-
 ## Method
 
 Heat oil in a large pot over medium high heat. Add garlic and onion, cook for 2 minutes. Add cayenne and cook until onion is translucent.
@@ -56,6 +52,5 @@ Add peas, stir, cook for 2 minutes. Add coriander and spinach, stir until wilted
 
 Season to taste until salt and pepper. Serve over basmati rice or plain white rice. Garnish with yoghurt and more coriander.
 
-Serving: 5
-
-Cooking Time: 40 Minutes
+* Serving: 5
+* Cooking Time: 40 Minutes
