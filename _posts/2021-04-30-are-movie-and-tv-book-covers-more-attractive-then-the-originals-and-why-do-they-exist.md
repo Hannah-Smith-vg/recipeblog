@@ -3,6 +3,7 @@ layout: post
 title: Are Movie and Tv book covers more attractive then the originals? And why
   do they exist?
 date: 2021-04-30T08:39:15.675Z
+header_feature_image: https://www.vowelor.com/wp-content/uploads/2017/03/books-vs-television.jpg
 title_color: "#ffffff"
 comments: false
 tags:
