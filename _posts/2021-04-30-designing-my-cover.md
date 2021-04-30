@@ -2,6 +2,7 @@
 layout: post
 title: Designing My Cover
 date: 2021-04-30T09:24:41.867Z
+header_feature_image: ../uploads/digital-product-book-cover-jpg.jpg
 title_color: "#ffffff"
 comments: false
 tags:
